@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Oi, eu sou Guilherme Hernandes | Desenvolvedor Full Stack 💻
+**Estudante de Sistemas de Informação com média de 8,3** e entusiasta de lógica e tecnologia.  
+Com o objetivo de aplicar meu conhecimento teórico em prática a fim de resolver problemas e me desenvolver como profissional. Proativo, rápido em aprender novas coisas, gosto de trabalhar em equipe e busco ativamente novos desafios! 🚀
+<!--
+Links das minhas redes
+-->
 
 <!--
-**guihernandess/guihernandess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currículo
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Competências
+
+## Projetos
 -->
