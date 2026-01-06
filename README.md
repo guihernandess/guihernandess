@@ -8,7 +8,7 @@ Estudante de Sistemas de Informação com **inglês avançado** e sólida base e
 | Linguagens/Frameworks | `C#` `HTML` `CSS` `JavaScript` |
 | Ferramentas/Controle de versão | `Visual Studio` `Visual Studio Code` `Git` `GitHub` |
 | Conceitos/Metodologias | `Lógica de programação` `Fluxograma` `Pseudocódigo` `Programação orientada a objetos` |
-| Idiomas | `Português do Brasil - fluente/nativo` `Inglês - nível avançado` |
+| Idiomas | `Inglês - nível avançado` |
 
 ## 🤝 Vamos nos conectar!
 Estou aberto a novas conexões, projetos de código aberto e conversas sobre oportunidades de estágio.
