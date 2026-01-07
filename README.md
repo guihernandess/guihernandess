@@ -1,14 +1,14 @@
 # 👋 Oi, eu sou Guilherme Hernandes
-### `Desenvolvedor C#`
-Estudante de Sistemas de Informação com **inglês avançado** e sólida base em **lógica de programação e programação orientada a objetos**.
+### `Desenvolvedor .NET`
+Estudante de Sistemas de Informação com **inglês avançado** e sólida base em **programação orientada a objetos**. Familiarizado com controle de versão utilizando o **Git** e metodologias de desenvolvimento com **.NET**.
 
 ## 💻 Habilidades técnicas
 | Categorias | Tecnologias |
 | :--: | :--: |
-| Linguagens/Frameworks | `C#` `HTML` `CSS` `JavaScript` |
-| Ferramentas/Controle de versão | `Visual Studio` `Visual Studio Code` `Git` `GitHub` |
-| Conceitos/Metodologias | `Lógica de programação` `Fluxograma` `Pseudocódigo` `Programação orientada a objetos` |
-| Idiomas | `Inglês - nível avançado` |
+| Linguagens/frameworks | `Node.js` `CSS` `HTML` `.NET` |
+| Ferramentas/controle de versão | `GitHub` `Git` `Visual Studio Code` `Visual Studio` |
+| Conceitos/metodologias | `Programação orientada a objetos` `Pseudocódigo` `Fluxograma` `Pensamento computacional` `Lógica computacional` `Lógica de programação` |
+| Idiomas | `Inglês - nível avançado` `Português do Brasil - fluente/nativo` |
 
 ## 🤝 Vamos nos conectar!
 Estou aberto a novas conexões, projetos de código aberto e conversas sobre oportunidades de estágio.
