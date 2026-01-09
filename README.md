@@ -7,7 +7,7 @@ Estudante de Sistemas de Informação no 3º período com **inglês avançado** 
 | :--: | :--: |
 | Linguagens/frameworks | `Node.js` `CSS` `HTML` `.NET` |
 | Ferramentas/controle de versão | `GitHub` `Git` `Visual Studio Code` `Visual Studio` |
-| Conceitos/metodologias | `Programação orientada a objetos` `Pseudocódigo` `Fluxograma` `Pensamento computacional` `Lógica computacional` `Lógica de programação` |
+| Conceitos/metodologias | `Programação Orientada a Objetos` `Pseudocódigo` `Fluxograma` `Pensamento Computacional` `Lógica Computacional` `Lógica de Programação` |
 | Idiomas | `Inglês - nível avançado` `Português - fluente/nativo` |
 
 ## 🤝 Vamos nos conectar!
