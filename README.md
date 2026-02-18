@@ -25,7 +25,7 @@ Estudante de Sistemas de Informação com **foco em desenvolvimento de software*
 
 ---
 
-### 🤝 Conecte-se comigo:
+### 🤝 Conecte-se Comigo:
 - [**E-mail**][1]
 - [**LinkedIn**][2]
 
