@@ -12,7 +12,7 @@ Estudante de Sistemas de Informação com **foco em desenvolvimento de software*
 | **Linguagens e Frameworks:** | `C#` `.NET` `Node.js` |
 | **Desenvolvimento Web:** | `JavaScript` `HTML` `CSS` |
 | **Paradigmas e Lógica:** | `Programação Orientada a Objetos (POO)` `Lógica de Programação` |
-| **Ferramentas e Versionamento:** | `Git` `GitHub` `Visual Studio` `VS Code` |
+| **Ferramentas e Versionamento:** | `Git` `GitHub` `Visual Studio` `Visual Studio Code` |
 | **Idiomas:** | `Inglês Avançado (C1)` `Português Nativo` |
 
 ---
