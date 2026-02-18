@@ -1,19 +1,21 @@
 # 👋 Oi, eu sou Guilherme Hernandes
-### `Desenvolvedor .NET`
-Estudante de Sistemas de Informação no 3º período com **inglês avançado** e sólida base em **programação orientada a objetos**. Familiarizado com controle de versão utilizando o **Git** e metodologias de desenvolvimento com **.NET**.
+### `Desenvolvedor Backend C#/.NET`
+Estudante de Sistemas de Informação com sólida base em **Lógica de Programação** e **Programação Orientada a Objetos (POO)**. Possuo **Inglês Avançado (C1)** e experiência prática em versionamento e colaboração via **Git/GitHub**.
 
 ## 💻 Habilidades técnicas
 | Categorias | Tecnologias |
 | :--: | :--: |
-| Linguagens/frameworks | `Node.js` `CSS` `HTML` `.NET` |
-| Ferramentas/controle de versão | `GitHub` `Git` `Visual Studio Code` `Visual Studio` |
-| Conceitos/metodologias | `Programação Orientada a Objetos` `Pseudocódigo` `Fluxograma` `Pensamento Computacional` `Lógica Computacional` `Lógica de Programação` |
-| Idiomas | `Inglês - nível avançado` `Português - fluente/nativo` |
+| Linguagens e Frameworks | `C#` `.NET` `JavaScript (Node.js)` |
+| Paradigmas | `Programação Orientada a Objetos (POO)` `Lógica de Programação` |
+| Ferramentas de Desenvolvimento | `Git` `GitHub` `VS Code` `Visual Studio` |
+| Idiomas | `Inglês: Avançado (C1)` `Português: Nativo` |
 
 ## 🤝 Vamos nos conectar!
 Estou aberto a novas conexões, projetos de código aberto e conversas sobre oportunidades de estágio.
-- [**E-mail**][1]
-- [**LinkedIn**][2]
+- [**Telefone**][1]
+- [**E-mail**][2]
+- [**LinkedIn**][3]
 
-[1]: mailto:gui.hernandes2006@gmail.com
-[2]: https://www.linkedin.com/in/guilhermehernandes/
+[1]: tel:+5513996623257
+[2]: mailto:gui.hernandes2006@gmail.com
+[3]: https://www.linkedin.com/in/guilhermehernandes/
