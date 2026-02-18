@@ -12,10 +12,8 @@ Estudante de Sistemas de Informação com sólida base em **Lógica de Programa�
 
 ## 🤝 Vamos nos conectar!
 Estou aberto a novas conexões, projetos de código aberto e conversas sobre oportunidades de estágio.
-- [**Telefone**][1]
-- [**E-mail**][2]
-- [**LinkedIn**][3]
+- [**E-mail**][1]
+- [**LinkedIn**][2]
 
-[1]: tel:+5513996623257
-[2]: mailto:gui.hernandes2006@gmail.com
-[3]: https://www.linkedin.com/in/guilhermehernandes/
+[1]: mailto:gui.hernandes2006@gmail.com
+[2]: https://www.linkedin.com/in/guilhermehernandes/
