@@ -2,7 +2,7 @@
 ## `Desenvolvedor Backend C#`
 
 ### 👨‍💻 Sobre Mim
-Estudante de Sistemas de Informação com **foco em desenvolvimento de software** e domínio dos **quatro pilares da Programação Orientada a Objetos (POO)**. Possuo proficiência técnica em **C# e ecossistema .NET**, além de experiência prática em controle de versão e fluxos de colaboração via **Git/GitHub**. Com **Inglês Avançado (C1)**, busco minha primeira oportunidade de estágio para contribuir com **soluções modulares e de fácil manutenção**.
+Estudante de Sistemas de Informação com **foco em desenvolvimento de software** e domínio dos **quatro pilares da Programação Orientada a Objetos (POO)**. Possuo proficiência técnica em **C#**, além de experiência prática em controle de versão e fluxos de colaboração via **Git/GitHub**. Com **Inglês Avançado (C1)**, busco minha primeira oportunidade de estágio para contribuir com **soluções modulares e de fácil manutenção**.
 
 ---
 
@@ -12,7 +12,7 @@ Estudante de Sistemas de Informação com **foco em desenvolvimento de software*
 | **Linguagens e Frameworks:** | `C#` `.NET` `Node.js` |
 | **Desenvolvimento Web:** | `JavaScript` `HTML` `CSS` |
 | **Paradigmas e Lógica:** | `Programação Orientada a Objetos (POO)` `Lógica de Programação` |
-| **Ferramentas e Versionamento:** | `Git` `GitHub` `Visual Studio` `Visual Studio Code` |
+| **Ferramentas e Versionamento:** | `Git` `GitHub` `Visual Studio Code` `Visual Studio` |
 | **Idiomas:** | `Inglês Avançado (C1)` `Português Nativo` |
 
 ---
@@ -30,4 +30,4 @@ Estudante de Sistemas de Informação com **foco em desenvolvimento de software*
 - [**LinkedIn**][2]
 
 [1]: mailto:gui.hernandes2006@gmail.com
-[2]: https://www.linkedin.com/in/guilhermehernandes/
+[2]: https://www.linkedin.com/in/guilherme-hernandes-dev/
