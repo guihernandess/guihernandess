@@ -1,8 +1,6 @@
 # Oi, eu sou o Guilherme Hernandes! 👋
 ## `Desenvolvedor Backend C#`
 
----
-
 ### 👨‍💻 Sobre Mim
 Estudante de Sistemas de Informação com **foco em desenvolvimento de software** e domínio dos **quatro pilares da Programação Orientada a Objetos (POO)**. Possuo proficiência técnica em **C#**, além de experiência prática em controle de versão e fluxos de colaboração via **Git/GitHub**. Com **Inglês Avançado (C1)**, busco minha primeira oportunidade de estágio para contribuir com **soluções modulares e de fácil manutenção**.
 
